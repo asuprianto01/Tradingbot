@@ -1,31 +1,31 @@
 # TradingBot
 
-Aplikasi Python untuk bot trading crypto dan screener saham Indonesia. Project
-ini punya dua jalur utama:
+A Python application for a crypto trading bot and an Indonesian stock screener.
+This project has two main workflows:
 
-- Bot crypto Crypto.com lewat CLI (`bot.py`)
-- Screener saham IDX lewat UI Streamlit (`app.py`)
+- Crypto.com crypto trading bot through the CLI (`bot.py`)
+- IDX stock screener through the Streamlit web UI (`app.py`)
 
-> Disclaimer: ini alat bantu analisis, bukan nasihat keuangan. Trading dan
-> investasi tetap berisiko. Jalankan paper mode dulu sebelum memakai akun live.
+> Disclaimer: this is an analysis tool, not financial advice. Trading and
+> investing are risky. Run paper mode first before using a live account.
 
-## Fitur Utama
+## Main Features
 
-- Analisis teknikal multi-timeframe
-- Screener saham IDX berbasis Yahoo Finance (`yfinance`)
-- Quality Value screener untuk saham jangka menengah/panjang
-- UI web dengan Streamlit
-- Notifikasi Telegram jika token disiapkan
-- Jurnal sinyal dan hasil scan lokal
-- Mode paper trading untuk bot crypto
+- Multi-timeframe technical analysis
+- IDX stock screener using Yahoo Finance (`yfinance`)
+- Quality Value screener for medium-to-long-term stock ideas
+- Streamlit web UI
+- Telegram notifications when a token is configured
+- Local signal journal and scan history
+- Paper trading mode for the crypto bot
 
-## Kebutuhan
+## Requirements
 
 - Python 3.10+
 - `pip`
-- Paket dari `requirements.txt`
+- Packages from `requirements.txt`
 
-Dependensi utama:
+Main dependencies:
 
 ```text
 requests
@@ -36,9 +36,9 @@ streamlit
 openpyxl
 ```
 
-## Install di Windows
+## Install on Windows
 
-Jalankan dari folder project:
+Run from the project folder:
 
 ```powershell
 cd C:\xampp\htdocs\TradingBot
@@ -48,13 +48,13 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Jalankan UI:
+Start the web UI:
 
 ```powershell
 python -m streamlit run app.py
 ```
 
-## Install di Ubuntu VM
+## Install on an Ubuntu VM
 
 Install Python:
 
@@ -63,7 +63,7 @@ sudo apt update
 sudo apt install -y python3 python3-venv python3-pip
 ```
 
-Masuk ke folder aplikasi:
+Open the application folder:
 
 ```bash
 cd /home/agus/TradingBot
@@ -73,74 +73,74 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Jalankan UI supaya bisa dibuka dari komputer lain di jaringan lokal:
+Start the UI so it can be opened from another computer on the local network:
 
 ```bash
 streamlit run app.py --server.address 0.0.0.0 --server.port 8501
 ```
 
-Buka dari browser:
+Open it in a browser:
 
 ```text
-http://IP_VM:8501
+http://VM_IP:8501
 ```
 
-Contoh:
+Example:
 
 ```text
 http://192.168.1.28:8501
 ```
 
-## Firewall Ubuntu
+## Ubuntu Firewall
 
-Untuk akses lokal, buka hanya port Streamlit:
+For local access, open only the Streamlit port:
 
 ```bash
 sudo ufw allow 8501/tcp
 sudo ufw status
 ```
 
-Kalau ingin lebih rapi, batasi hanya jaringan lokal:
+For a cleaner local setup, allow only the local network:
 
 ```bash
 sudo ufw delete allow 8501/tcp
 sudo ufw allow from 192.168.1.0/24 to any port 8501 proto tcp
 ```
 
-Jangan buka ke internet publik tanpa proteksi tambahan seperti HTTPS,
-password/login, tunnel, atau reverse proxy.
+Do not expose the app directly to the public internet without extra protection
+such as HTTPS, authentication, a tunnel, or a reverse proxy.
 
-## Akses Publik
+## Public Access
 
-Saat ini aplikasi aman dipakai di jaringan lokal lewat IP VM. Untuk akses dari
-luar rumah/kantor, perlu salah satu ini:
+The app is currently best used on the local network through the VM IP. To access
+it from outside your home or office network, use one of these options:
 
-- Port forwarding router
+- Router port forwarding
 - VPS/cloud server
 - Cloudflare Tunnel
 - Tailscale
 - ngrok
 
-Rekomendasi untuk akses pribadi: Tailscale atau Cloudflare Tunnel.
+Recommended for private access: Tailscale or Cloudflare Tunnel.
 
-## File Environment
+## Environment File
 
-Salin contoh konfigurasi:
+Copy the example configuration:
 
 ```bash
 cp .env.example .env
 ```
 
-Di Windows:
+On Windows:
 
 ```powershell
 copy .env.example .env
 ```
 
-Isi `.env` jika memakai API key atau Telegram. File `.env` sudah masuk
-`.gitignore`, jadi jangan di-upload ke GitHub.
+Fill `.env` if you use API keys or Telegram. The `.env` file is already listed
+in `.gitignore`, so do not upload it to GitHub.
 
-## Perintah Bot Crypto
+## Crypto Bot Commands
 
 ```bash
 python bot.py analyze
@@ -150,23 +150,23 @@ python bot.py status
 python bot.py balance
 ```
 
-Untuk live trading:
+For live trading:
 
-1. Buat API key Crypto.com Exchange.
-2. Aktifkan Read + Trade saja, jangan Withdraw.
-3. Isi `.env`.
-4. Ubah `config.json` ke mode live.
-5. Mulai dari ukuran kecil.
+1. Create a Crypto.com Exchange API key.
+2. Enable Read + Trade only, never Withdraw.
+3. Fill `.env`.
+4. Change `config.json` to live mode.
+5. Start with a small position size.
 
-## Perintah Screener IDX
+## IDX Screener Commands
 
-UI web:
+Web UI:
 
 ```bash
 python -m streamlit run app.py
 ```
 
-CLI teknikal:
+Technical CLI:
 
 ```bash
 python screener.py
@@ -176,7 +176,7 @@ python screener.py --universe LQ45
 python screener.py BBCA
 ```
 
-CLI Quality Value:
+Quality Value CLI:
 
 ```bash
 python qvscreener.py
@@ -185,29 +185,29 @@ python qvscreener.py --universe KOMPAS100
 python qvscreener.py BBRI
 ```
 
-## File Penting
+## Important Files
 
-| File | Fungsi |
+| File | Purpose |
 |---|---|
-| `app.py` | UI Streamlit |
-| `bot.py` | CLI bot crypto |
-| `screener.py` | Screener teknikal IDX |
-| `qvscreener.py` | Screener Quality Value |
-| `strategy.py` | Mesin analisis teknikal |
-| `risk.py` | Manajemen risiko |
+| `app.py` | Streamlit UI |
+| `bot.py` | Crypto bot CLI |
+| `screener.py` | IDX technical screener |
+| `qvscreener.py` | Quality Value screener |
+| `strategy.py` | Technical analysis engine |
+| `risk.py` | Risk management |
 | `trader.py` | Paper/live execution |
-| `exchange.py` | Client API Crypto.com |
-| `notify_telegram.py` | Notifikasi Telegram |
-| `config.json` | Konfigurasi bot crypto |
-| `config_screener.json` | Konfigurasi screener |
-| `requirements.txt` | Daftar dependensi Python |
+| `exchange.py` | Crypto.com API client |
+| `notify_telegram.py` | Telegram notifications |
+| `config.json` | Crypto bot configuration |
+| `config_screener.json` | Screener configuration |
+| `requirements.txt` | Python dependency list |
 
-## Catatan GitHub
+## GitHub Notes
 
-Sebelum upload ke GitHub, cek dulu:
+Before uploading to GitHub, check:
 
 ```bash
 git status
 ```
 
-Pastikan file rahasia seperti `.env` tidak ikut masuk commit.
+Make sure secret files such as `.env` are not included in a commit.
