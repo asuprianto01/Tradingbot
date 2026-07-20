@@ -1,0 +1,35 @@
+{
+  "tickers": [
+    "BBCA",
+    "BBRI",
+    "BMRI",
+    "TLKM",
+    "ASII",
+    "UNVR",
+    "GOTO",
+    "ANTM"
+  ],
+  "entry_timeframe": "1d",
+  "trend_timeframe": "1wk",
+  "min_signal": "BUY",
+  "capital": 100000000,
+  "lot_size": 100,
+  "min_turnover": 3000000000,
+  "require_market_risk_on": true,
+  "exit": {
+    "trailing": true,
+    "trail_r_mult": 1.5
+  },
+  "risk": {},
+  "strategy": {},
+  "screener": {
+    "tickers": [
+      "BBRI",
+      "ADRO",
+      "BJBR",
+      "BJTM",
+      "LPPF",
+      "MPMX"
+    ]
+  }
+}

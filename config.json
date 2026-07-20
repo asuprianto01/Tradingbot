@@ -1,0 +1,43 @@
+{
+  "mode": "paper",
+  "i_understand_live_trading_risks": false,
+  "paper_starting_balance": 10000.0,
+  "quote_currency": "USDT",
+  "instruments": [
+    "BTC_USDT",
+    "ETH_USDT",
+    "SOL_USDT"
+  ],
+  "entry_timeframe": "1h",
+  "trend_timeframe": "4h",
+  "poll_seconds": 300,
+  "min_entry_signal": "STRONG_BUY",
+  "risk": {
+    "risk_per_trade_pct": 1.0,
+    "max_position_pct": 20.0,
+    "max_open_positions": 3,
+    "max_daily_loss_pct": 4.0,
+    "stop_atr_multiple": 2.5,
+    "min_reward_risk": 1.5
+  },
+  "screener": {
+    "tickers": [
+      "BBRI",
+      "BMRI",
+      "BJBR",
+      "BJTM",
+      "ADRO",
+      "LPPF",
+      "MPMX"
+    ],
+    "entry_timeframe": "1d",
+    "trend_timeframe": "1wk",
+    "min_signal": "BUY",
+    "capital": 100000000,
+    "lot_size": 100
+  },
+  "telegram": {
+    "token": "",
+    "recipients": []
+  }
+}

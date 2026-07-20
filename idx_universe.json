@@ -1,0 +1,2653 @@
+{
+  "generated": "2026-07-06 14:52:22",
+  "min_price": 50,
+  "min_mcap": 500000000000,
+  "count": 529,
+  "stocks": {
+    "BBCA": {
+      "price": 6150.0,
+      "mcap": 755688892530688,
+      "name": "Bank Central Asia Tbk"
+    },
+    "DCII": {
+      "price": 198925.0,
+      "mcap": 474186636066816,
+      "name": "DCI Indonesia Tbk."
+    },
+    "BREN": {
+      "price": 3390.0,
+      "mcap": 453512576106496,
+      "name": "Barito Renewables Energy Tbk."
+    },
+    "BBRI": {
+      "price": 2730.0,
+      "mcap": 411069541515264,
+      "name": "Bank Rakyat Indonesia (Persero)"
+    },
+    "BYAN": {
+      "price": 11450.0,
+      "mcap": 381666665168896,
+      "name": "Bayan Resources Tbk"
+    },
+    "BMRI": {
+      "price": 3980.0,
+      "mcap": 371466654711808,
+      "name": "Bank Mandiri (Persero) Tbk"
+    },
+    "MORA": {
+      "price": 6600.0,
+      "mcap": 315309655326720,
+      "name": "Ekamas Mora Republik Tbk."
+    },
+    "AMMN": {
+      "price": 3430.0,
+      "mcap": 248374586507264,
+      "name": "Amman Mineral Internasional Tbk"
+    },
+    "TLKM": {
+      "price": 2480.0,
+      "mcap": 244774816710656,
+      "name": "Telkom Indonesia (Persero) Tbk."
+    },
+    "ASII": {
+      "price": 4740.0,
+      "mcap": 189902482309120,
+      "name": "Astra International Tbk"
+    },
+    "TPIA": {
+      "price": 1815.0,
+      "mcap": 156983470587904,
+      "name": "Chandra Asri Pacific Tbk."
+    },
+    "BRPT": {
+      "price": 1485.0,
+      "mcap": 139161940000768,
+      "name": "Barito Pacific Tbk."
+    },
+    "SMMA": {
+      "price": 21550.0,
+      "mcap": 137223173308416,
+      "name": "Sinarmas Multiartha Tbk."
+    },
+    "SRAJ": {
+      "price": 11000.0,
+      "mcap": 134628551688192,
+      "name": "Sejahteraraya Anugrahjaya Tbk."
+    },
+    "DNET": {
+      "price": 9425.0,
+      "mcap": 133684195753984,
+      "name": "Indoritel Makmur Internasional "
+    },
+    "DSSA": {
+      "price": 810.0,
+      "mcap": 125333017722880,
+      "name": "Dian Swastatika Sentosa Tbk"
+    },
+    "BBNI": {
+      "price": 3260.0,
+      "mcap": 121457162059776,
+      "name": "Bank Negara Indonesia  (Persero"
+    },
+    "PANI": {
+      "price": 5950.0,
+      "mcap": 107796305543168,
+      "name": "Pantai Indah Kapuk Dua Tbk."
+    },
+    "CASA": {
+      "price": 1800.0,
+      "mcap": 98057291038720,
+      "name": "Capital Financial Indonesia Tbk"
+    },
+    "MPRO": {
+      "price": 9400.0,
+      "mcap": 93459503382528,
+      "name": "Maha Properti Indonesia Tbk."
+    },
+    "EMAS": {
+      "price": 5800.0,
+      "mcap": 85441923514368,
+      "name": "Merdeka Gold Resources Tbk."
+    },
+    "BNLI": {
+      "price": 2340.0,
+      "mcap": 84664265998336,
+      "name": "Bank Permata Tbk"
+    },
+    "UNTR": {
+      "price": 23800.0,
+      "mcap": 83940379459584,
+      "name": "United Tractors Tbk"
+    },
+    "IMPC": {
+      "price": 1525.0,
+      "mcap": 83458227437568,
+      "name": "Impack Pratama Industri Tbk."
+    },
+    "ICBP": {
+      "price": 6950.0,
+      "mcap": 81050260733952,
+      "name": "Indofood CBP Sukses Makmur Tbk."
+    },
+    "BRIS": {
+      "price": 1740.0,
+      "mcap": 80264910864384,
+      "name": "Bank Syariah Indonesia (Persero"
+    },
+    "HMSP": {
+      "price": 660.0,
+      "mcap": 76769931558912,
+      "name": "H.M. Sampoerna Tbk."
+    },
+    "CDIA": {
+      "price": 610.0,
+      "mcap": 76138856579072,
+      "name": "Chandra Daya Investasi Tbk."
+    },
+    "BRMS": {
+      "price": 505.0,
+      "mcap": 71600938418176,
+      "name": "Bumi Resources Minerals Tbk."
+    },
+    "ANTM": {
+      "price": 2940.0,
+      "mcap": 70650450411520,
+      "name": "Aneka Tambang (Persero) Tbk."
+    },
+    "CUAN": {
+      "price": 600.0,
+      "mcap": 67439517761536,
+      "name": "Petrindo Jaya Kreasi Tbk."
+    },
+    "UNVR": {
+      "price": 1775.0,
+      "mcap": 67416688164864,
+      "name": "Unilever Indonesia Tbk"
+    },
+    "ADRO": {
+      "price": 2290.0,
+      "mcap": 65953131921408,
+      "name": "Alamtri Resources Indonesia Tbk"
+    },
+    "MDKA": {
+      "price": 2680.0,
+      "mcap": 65437295443968,
+      "name": "Merdeka Copper Gold Tbk."
+    },
+    "AADI": {
+      "price": 8000.0,
+      "mcap": 62295132602368,
+      "name": "Adaro Andalan Indonesia Tbk."
+    },
+    "ISAT": {
+      "price": 1875.0,
+      "mcap": 60470270623744,
+      "name": "Indosat Tbk"
+    },
+    "INDF": {
+      "price": 6875.0,
+      "mcap": 60365429800960,
+      "name": "Indofood Sukses Makmur Tbk"
+    },
+    "ADMR": {
+      "price": 1415.0,
+      "mcap": 57848499273728,
+      "name": "Alamtri Minerals Indonesia Tbk."
+    },
+    "AMRT": {
+      "price": 1390.0,
+      "mcap": 57117650190336,
+      "name": "Sumber Alfaria Trijaya Tbk"
+    },
+    "MBMA": {
+      "price": 510.0,
+      "mcap": 55077666553856,
+      "name": "Merdeka Battery Materials Tbk."
+    },
+    "NCKL": {
+      "price": 840.0,
+      "mcap": 52909806977024,
+      "name": "Trimegah Bangun Persada Tbk."
+    },
+    "BUMI": {
+      "price": 138.0,
+      "mcap": 51244286607360,
+      "name": "Bumi Resources Tbk"
+    },
+    "CPIN": {
+      "price": 3070.0,
+      "mcap": 50341861130240,
+      "name": "Charoen Pokphand Indonesia Tbk"
+    },
+    "INCO": {
+      "price": 4580.0,
+      "mcap": 48272211181568,
+      "name": "Vale Indonesia Tbk."
+    },
+    "MEGA": {
+      "price": 1990.0,
+      "mcap": 46261587673088,
+      "name": "Bank Mega Tbk"
+    },
+    "EXCL": {
+      "price": 2510.0,
+      "mcap": 45681658036224,
+      "name": "XLSMART Telecom Sejahtera Tbk."
+    },
+    "PGUN": {
+      "price": 7275.0,
+      "mcap": 41742850064384,
+      "name": "Pradiksi Gunatama Tbk."
+    },
+    "MTEL": {
+      "price": 494.0,
+      "mcap": 40024145920000,
+      "name": "Dayamitra Telekomunikasi Tbk."
+    },
+    "PTRO": {
+      "price": 3900.0,
+      "mcap": 39335592198144,
+      "name": "Petrosea Tbk"
+    },
+    "BNGA": {
+      "price": 1540.0,
+      "mcap": 38939469545472,
+      "name": "Bank CIMB Niaga Tbk."
+    },
+    "MYOR": {
+      "price": 1760.0,
+      "mcap": 38944662093824,
+      "name": "Mayora Indah Tbk"
+    },
+    "INKP": {
+      "price": 7025.0,
+      "mcap": 38433657454592,
+      "name": "Indah Kiat Pulp & Paper Tbk."
+    },
+    "BDMN": {
+      "price": 3830.0,
+      "mcap": 37432707776512,
+      "name": "Bank Danamon Indonesia Tbk."
+    },
+    "PGEO": {
+      "price": 880.0,
+      "mcap": 36871593787392,
+      "name": "Pertamina Geothermal Energy Tbk"
+    },
+    "BELI": {
+      "price": 270.0,
+      "mcap": 36677577867264,
+      "name": "Global Digital Niaga Tbk."
+    },
+    "GEMS": {
+      "price": 6175.0,
+      "mcap": 36323532472320,
+      "name": "Golden Energy Mines Tbk."
+    },
+    "TCPI": {
+      "price": 7100.0,
+      "mcap": 35500001853440,
+      "name": "Transcoal Pacific Tbk."
+    },
+    "CMRY": {
+      "price": 4320.0,
+      "mcap": 34277831999488,
+      "name": "Cisarua Mountain Dairy Tbk."
+    },
+    "PGAS": {
+      "price": 1395.0,
+      "mcap": 33816903155712,
+      "name": "Perusahaan Gas Negara (Persero)"
+    },
+    "MLPT": {
+      "price": 18025.0,
+      "mcap": 33796875354112,
+      "name": "Multipolar Technology Tbk."
+    },
+    "KLBF": {
+      "price": 745.0,
+      "mcap": 33710401388544,
+      "name": "Kalbe Farma Tbk"
+    },
+    "TBIG": {
+      "price": 1415.0,
+      "mcap": 31968360136704,
+      "name": "Tower Bersama Infrastructure Tb"
+    },
+    "EMTK": {
+      "price": 510.0,
+      "mcap": 31203077914624,
+      "name": "Elang Mahkota Teknologi Tbk"
+    },
+    "TAPG": {
+      "price": 1555.0,
+      "mcap": 30870700294144,
+      "name": "Triputra Agro Persada Tbk."
+    },
+    "GGRM": {
+      "price": 15775.0,
+      "mcap": 30352489840640,
+      "name": "Gudang Garam Tbk"
+    },
+    "ENRG": {
+      "price": 1110.0,
+      "mcap": 29486644985856,
+      "name": "Energi Mega Persada Tbk"
+    },
+    "SILO": {
+      "price": 2160.0,
+      "mcap": 28053008809984,
+      "name": "Siloam International Hospitals "
+    },
+    "MSIN": {
+      "price": 454.0,
+      "mcap": 27546984906752,
+      "name": "MNC Digital Entertainment Tbk."
+    },
+    "NISP": {
+      "price": 1195.0,
+      "mcap": 27419629060096,
+      "name": "Bank OCBC NISP Tbk"
+    },
+    "MEDC": {
+      "price": 1100.0,
+      "mcap": 27148683313152,
+      "name": "Medco Energi Internasional Tbk."
+    },
+    "PTBA": {
+      "price": 2330.0,
+      "mcap": 26828450299904,
+      "name": "Bukit Asam (Persero) Tbk."
+    },
+    "AKRA": {
+      "price": 1300.0,
+      "mcap": 25739699159040,
+      "name": "AKR Corporindo Tbk"
+    },
+    "TINS": {
+      "price": 3440.0,
+      "mcap": 25620270546944,
+      "name": "TIMAH (Persero) Tbk."
+    },
+    "FAPA": {
+      "price": 7350.0,
+      "mcap": 25614673248256,
+      "name": "FAP Agri Tbk."
+    },
+    "ITMG": {
+      "price": 22600.0,
+      "mcap": 25196719243264,
+      "name": "Indo Tambangraya Megah Tbk"
+    },
+    "MAPI": {
+      "price": 1515.0,
+      "mcap": 25149000646656,
+      "name": "Mitra Adiperkasa Tbk"
+    },
+    "ARCI": {
+      "price": 985.0,
+      "mcap": 24856475205632,
+      "name": "Archi Indonesia Tbk."
+    },
+    "MIKA": {
+      "price": 1700.0,
+      "mcap": 23641307742208,
+      "name": "Mitra Keluarga Karyasehat Tbk."
+    },
+    "JPFA": {
+      "price": 2000.0,
+      "mcap": 23255339499520,
+      "name": "Japfa Comfeed Indonesia Tbk."
+    },
+    "BTPN": {
+      "price": 2180.0,
+      "mcap": 23208159870976,
+      "name": "Bank SMBC Indonesia Tbk."
+    },
+    "BINA": {
+      "price": 3750.0,
+      "mcap": 23005187014656,
+      "name": "Bank Ina Perdana Tbk."
+    },
+    "VKTR": {
+      "price": 530.0,
+      "mcap": 23187498729472,
+      "name": "VKTR Teknologi Mobilitas Tbk."
+    },
+    "MDIY": {
+      "price": 885.0,
+      "mcap": 22293497511936,
+      "name": "Daya Intiguna Yasa Tbk."
+    },
+    "GIAA": {
+      "price": 53.0,
+      "mcap": 21575860486144,
+      "name": "Garuda Indonesia (Persero) Tbk."
+    },
+    "TOWR": {
+      "price": 368.0,
+      "mcap": 21421862420480,
+      "name": "Sarana Menara Nusantara Tbk."
+    },
+    "PNBN": {
+      "price": 875.0,
+      "mcap": 21062888718336,
+      "name": "Bank Pan Indonesia Tbk"
+    },
+    "SRTG": {
+      "price": 1555.0,
+      "mcap": 21069989675008,
+      "name": "Saratoga Investama Sedaya Tbk."
+    },
+    "BUVA": {
+      "price": 825.0,
+      "mcap": 20309069529088,
+      "name": "Bukit Uluwatu Villa Tbk."
+    },
+    "BBHI": {
+      "price": 935.0,
+      "mcap": 20212179009536,
+      "name": "Allo Bank Indonesia Tbk."
+    },
+    "JSMR": {
+      "price": 2750.0,
+      "mcap": 19959147134976,
+      "name": "Jasa Marga (Persero) Tbk"
+    },
+    "MKPI": {
+      "price": 20900.0,
+      "mcap": 19817253830656,
+      "name": "Metropolitan Kentjana Tbk"
+    },
+    "CBDK": {
+      "price": 3410.0,
+      "mcap": 19292712075264,
+      "name": "Bangun Kosambi Sukses Tbk."
+    },
+    "ADES": {
+      "price": 32675.0,
+      "mcap": 19274879991808,
+      "name": "Akasha Wira International Tbk."
+    },
+    "AVIA": {
+      "price": 320.0,
+      "mcap": 18920146731008,
+      "name": "Avia Avian Tbk."
+    },
+    "SUPA": {
+      "price": 560.0,
+      "mcap": 18982329384960,
+      "name": "Super Bank Indonesia Tbk."
+    },
+    "FILM": {
+      "price": 1660.0,
+      "mcap": 18073360793600,
+      "name": "MD Entertainment Tbk."
+    },
+    "BNBR": {
+      "price": 104.0,
+      "mcap": 18035735789568,
+      "name": "Bakrie & Brothers Tbk"
+    },
+    "TKIM": {
+      "price": 5475.0,
+      "mcap": 17044899627008,
+      "name": "Pabrik Kertas Tjiwi Kimia Tbk"
+    },
+    "RAJA": {
+      "price": 4030.0,
+      "mcap": 17035142627328,
+      "name": "Rukun Raharja Tbk"
+    },
+    "MAPA": {
+      "price": 600.0,
+      "mcap": 17102400389120,
+      "name": "Map Aktif Adiperkasa Tbk."
+    },
+    "BBSI": {
+      "price": 4610.0,
+      "mcap": 16940474040320,
+      "name": "Krom Bank Indonesia Tbk."
+    },
+    "JARR": {
+      "price": 1815.0,
+      "mcap": 16753656594432,
+      "name": "Jhonlin Agro Raya Tbk."
+    },
+    "MGLV": {
+      "price": 8450.0,
+      "mcap": 16096265502720,
+      "name": "Panca Anugrah Wisesa Tbk."
+    },
+    "BBTN": {
+      "price": 1155.0,
+      "mcap": 16209783291904,
+      "name": "Bank Tabungan Negara (Persero) "
+    },
+    "NSSS": {
+      "price": 610.0,
+      "mcap": 14518957637632,
+      "name": "Nusantara Sawit Sejahtera Tbk."
+    },
+    "RATU": {
+      "price": 5350.0,
+      "mcap": 14472037007360,
+      "name": "Raharja Energi Cepu Tbk."
+    },
+    "BNII": {
+      "price": 189.0,
+      "mcap": 14404672290816,
+      "name": "Bank Maybank Indonesia Tbk."
+    },
+    "CARE": {
+      "price": 428.0,
+      "mcap": 14231000842240,
+      "name": "Metro Healthcare Indonesia Tbk."
+    },
+    "ARKO": {
+      "price": 4840.0,
+      "mcap": 14173916364800,
+      "name": "Arkora Hydro Tbk."
+    },
+    "RISE": {
+      "price": 875.0,
+      "mcap": 14173774807040,
+      "name": "Jaya Sukses Makmur Sentosa Tbk."
+    },
+    "SMAR": {
+      "price": 4910.0,
+      "mcap": 14102468493312,
+      "name": "Sinar Mas Agro Resources and Te"
+    },
+    "ULTJ": {
+      "price": 1350.0,
+      "mcap": 14037536473088,
+      "name": "Ultrajaya Milk Industry & Tradi"
+    },
+    "INTP": {
+      "price": 4240.0,
+      "mcap": 13922991079424,
+      "name": "Indocement Tunggal Prakarsa Tbk"
+    },
+    "SOHO": {
+      "price": 1095.0,
+      "mcap": 13897392193536,
+      "name": "Soho Global Health Tbk."
+    },
+    "MCOL": {
+      "price": 3890.0,
+      "mcap": 13831128481792,
+      "name": "Prima Andalan Mandiri Tbk."
+    },
+    "JRPT": {
+      "price": 1075.0,
+      "mcap": 13791561515008,
+      "name": "Jaya Real Property Tbk"
+    },
+    "BSIM": {
+      "price": 695.0,
+      "mcap": 13702732447744,
+      "name": "Bank Sinarmas Tbk."
+    },
+    "HEAL": {
+      "price": 880.0,
+      "mcap": 13480749957120,
+      "name": "Medikaloka Hermina Tbk."
+    },
+    "CMNT": {
+      "price": 785.0,
+      "mcap": 13443520266240,
+      "name": "Cemindo Gemilang Tbk."
+    },
+    "MLBI": {
+      "price": 6325.0,
+      "mcap": 13326774960128,
+      "name": "Multi Bintang Indonesia Tbk"
+    },
+    "SCMA": {
+      "price": 204.0,
+      "mcap": 12954959347712,
+      "name": "Surya Citra Media Tbk"
+    },
+    "STTP": {
+      "price": 9750.0,
+      "mcap": 12772499783680,
+      "name": "Siantar Top Tbk."
+    },
+    "ARTO": {
+      "price": 930.0,
+      "mcap": 12891038154752,
+      "name": "Bank Jago Tbk."
+    },
+    "DEWA": {
+      "price": 312.0,
+      "mcap": 12694480486400,
+      "name": "Darma Henwa Tbk"
+    },
+    "LIFE": {
+      "price": 5875.0,
+      "mcap": 12337500127232,
+      "name": "MSIG Life Insurance Indonesia T"
+    },
+    "PWON": {
+      "price": 256.0,
+      "mcap": 12328857763840,
+      "name": "Pakuwon Jati Tbk."
+    },
+    "CITA": {
+      "price": 3050.0,
+      "mcap": 12079101640704,
+      "name": "Cita Mineral Investindo Tbk"
+    },
+    "DSNG": {
+      "price": 1130.0,
+      "mcap": 11977822830592,
+      "name": "Dharma Satya Nusantara Tbk."
+    },
+    "YUPI": {
+      "price": 1380.0,
+      "mcap": 11791394406400,
+      "name": "Yupi Indo Jelly Gum Tbk."
+    },
+    "ELPI": {
+      "price": 1305.0,
+      "mcap": 11812460298240,
+      "name": "Pelayaran Nasional Ekalya Purna"
+    },
+    "BSDE": {
+      "price": 555.0,
+      "mcap": 11606934159360,
+      "name": "Bumi Serpong Damai Tbk"
+    },
+    "AALI": {
+      "price": 6025.0,
+      "mcap": 11596247072768,
+      "name": "Astra Agro Lestari Tbk."
+    },
+    "AUTO": {
+      "price": 2380.0,
+      "mcap": 11470964260864,
+      "name": "Astra Otoparts Tbk"
+    },
+    "POWR": {
+      "price": 710.0,
+      "mcap": 11254564388864,
+      "name": "Cikarang Listrindo Tbk."
+    },
+    "BFIN": {
+      "price": 755.0,
+      "mcap": 11135784845312,
+      "name": "BFI Finance  Indonesia Tbk"
+    },
+    "ALII": {
+      "price": 705.0,
+      "mcap": 11157189427200,
+      "name": "Ancara Logistics Indonesia Tbk."
+    },
+    "TSPC": {
+      "price": 2470.0,
+      "mcap": 11139364683776,
+      "name": "Tempo Scan Pacific Tbk"
+    },
+    "GOOD": {
+      "price": 300.0,
+      "mcap": 11063281057792,
+      "name": "Garudafood Putra Putri Jaya Tbk"
+    },
+    "SIDO": {
+      "price": 370.0,
+      "mcap": 10891024138240,
+      "name": "Industri Jamu dan Farmasi Sido "
+    },
+    "PSAB": {
+      "price": 410.0,
+      "mcap": 10848599801856,
+      "name": "J Resources Asia Pasifik Tbk."
+    },
+    "STAA": {
+      "price": 985.0,
+      "mcap": 10737906876416,
+      "name": "Sumber Tani Agung Resources Tbk"
+    },
+    "CTRA": {
+      "price": 565.0,
+      "mcap": 10472667480064,
+      "name": "Ciputra Development Tbk"
+    },
+    "BSSR": {
+      "price": 4030.0,
+      "mcap": 10544494936064,
+      "name": "Baramulti Suksessarana Tbk."
+    },
+    "INDY": {
+      "price": 1970.0,
+      "mcap": 10249302966272,
+      "name": "Indika Energy Tbk"
+    },
+    "BKSL": {
+      "price": 60.0,
+      "mcap": 10062533754880,
+      "name": "Sentul City Tbk."
+    },
+    "RLCO": {
+      "price": 3190.0,
+      "mcap": 9968750166016,
+      "name": "Abadi Lestari Indonesia Tbk."
+    },
+    "COIN": {
+      "price": 670.0,
+      "mcap": 9852941238272,
+      "name": "Indokripto Koin Semesta Tbk."
+    },
+    "ADMF": {
+      "price": 7950.0,
+      "mcap": 9746595708928,
+      "name": "Adira Dinamika Multi Finance Tb"
+    },
+    "RMKE": {
+      "price": 2200.0,
+      "mcap": 9624999690240,
+      "name": "RMK Energy Tbk."
+    },
+    "BBKP": {
+      "price": 51.0,
+      "mcap": 9582263926784,
+      "name": "Bank KB Indonesia Tbk."
+    },
+    "HRUM": {
+      "price": 725.0,
+      "mcap": 9532702982144,
+      "name": "Harum Energy Tbk."
+    },
+    "SMSM": {
+      "price": 1645.0,
+      "mcap": 9473021181952,
+      "name": "Selamat Sempurna Tbk"
+    },
+    "POLU": {
+      "price": 12600.0,
+      "mcap": 9449999695872,
+      "name": "Golden Flower Tbk."
+    },
+    "SMGR": {
+      "price": 1400.0,
+      "mcap": 9429762179072,
+      "name": "Semen Indonesia (Persero) Tbk."
+    },
+    "PRAY": {
+      "price": 670.0,
+      "mcap": 9352812429312,
+      "name": "Famon Awal Bros Sedaya Tbk."
+    },
+    "CMNP": {
+      "price": 1380.0,
+      "mcap": 9240969216000,
+      "name": "Citra Marga Nusaphala Persada T"
+    },
+    "ESSA": {
+      "price": 540.0,
+      "mcap": 9302566764544,
+      "name": "ESSA Industries Indonesia Tbk."
+    },
+    "BUKA": {
+      "price": 99.0,
+      "mcap": 9123870539776,
+      "name": "Bukalapak.com Tbk."
+    },
+    "CLEO": {
+      "price": 376.0,
+      "mcap": 9023999967232,
+      "name": "Sariguna Primatirta Tbk."
+    },
+    "WIFI": {
+      "price": 1700.0,
+      "mcap": 9024533692416,
+      "name": "Solusi Sinergi Digital Tbk."
+    },
+    "MIDI": {
+      "price": 268.0,
+      "mcap": 8960659685376,
+      "name": "Midi Utama Indonesia Tbk."
+    },
+    "BHAT": {
+      "price": 1770.0,
+      "mcap": 8850000314368,
+      "name": "Bhakti Multi Artha Tbk."
+    },
+    "BMAS": {
+      "price": 474.0,
+      "mcap": 8580662558720,
+      "name": "Bank Maspion Indonesia Tbk."
+    },
+    "LSIP": {
+      "price": 1255.0,
+      "mcap": 8559054553088,
+      "name": "PP London Sumatra Indonesia Tbk"
+    },
+    "HRTA": {
+      "price": 1805.0,
+      "mcap": 8312498683904,
+      "name": "Hartadinata Abadi Tbk."
+    },
+    "AGII": {
+      "price": 2710.0,
+      "mcap": 8310648995840,
+      "name": "Samator Indo Gas Tbk."
+    },
+    "SIMP": {
+      "price": 530.0,
+      "mcap": 8215694147584,
+      "name": "Salim Ivomas Pratama Tbk."
+    },
+    "CYBR": {
+      "price": 600.0,
+      "mcap": 8081422417920,
+      "name": "ITSEC Asia Tbk."
+    },
+    "BJBR": {
+      "price": 765.0,
+      "mcap": 8048903979008,
+      "name": "Bank Pembangunan Daerah Jawa Ba"
+    },
+    "KPIG": {
+      "price": 75.0,
+      "mcap": 8048463052800,
+      "name": "MNC Tourism Indonesia Tbk."
+    },
+    "APIC": {
+      "price": 670.0,
+      "mcap": 7883430297600,
+      "name": "Pacific Strategic Financial Tbk"
+    },
+    "BIPI": {
+      "price": 121.0,
+      "mcap": 7708933619712,
+      "name": "Astrindo Nusantara Infrastruktu"
+    },
+    "BBMD": {
+      "price": 1905.0,
+      "mcap": 7675482472448,
+      "name": "Bank Mestika Dharma Tbk."
+    },
+    "BTPS": {
+      "price": 985.0,
+      "mcap": 7588144480256,
+      "name": "Bank BTPN Syariah Tbk."
+    },
+    "BJTM": {
+      "price": 510.0,
+      "mcap": 7657903620096,
+      "name": "Bank Pembangunan Daerah Jawa Ti"
+    },
+    "DUTI": {
+      "price": 4050.0,
+      "mcap": 7492500193280,
+      "name": "Duta Pertiwi Tbk"
+    },
+    "PACK": {
+      "price": 232.0,
+      "mcap": 7511370366976,
+      "name": "Abadi Nusantara Hijau Investama"
+    },
+    "SSMS": {
+      "price": 770.0,
+      "mcap": 7334250151936,
+      "name": "Sawit Sumbermas Sarana Tbk."
+    },
+    "CNMA": {
+      "price": 88.0,
+      "mcap": 7328632930304,
+      "name": "Nusantara Sejahtera Raya Tbk."
+    },
+    "SSIA": {
+      "price": 1500.0,
+      "mcap": 7057873829888,
+      "name": "Surya Semesta Internusa Tbk"
+    },
+    "INPP": {
+      "price": 630.0,
+      "mcap": 7044641849344,
+      "name": "Indonesian Paradise Property Tb"
+    },
+    "CLAY": {
+      "price": 2650.0,
+      "mcap": 6810499547136,
+      "name": "Citra Putra Realty Tbk."
+    },
+    "PNLF": {
+      "price": 212.0,
+      "mcap": 6788679729152,
+      "name": "Panin Financial Tbk"
+    },
+    "DMAS": {
+      "price": 138.0,
+      "mcap": 6651339341824,
+      "name": "Puradelta Lestari Tbk."
+    },
+    "TLDN": {
+      "price": 505.0,
+      "mcap": 6537997713408,
+      "name": "Teladan Prima Agro Tbk."
+    },
+    "GMFI": {
+      "price": 52.0,
+      "mcap": 6491433598976,
+      "name": "Garuda Maintenance Facility Aer"
+    },
+    "TMAS": {
+      "price": 113.0,
+      "mcap": 6426180714496,
+      "name": "Temas Tbk."
+    },
+    "EPMT": {
+      "price": 2360.0,
+      "mcap": 6392390352896,
+      "name": "Enseval Putera Megatrading Tbk"
+    },
+    "ABMM": {
+      "price": 2300.0,
+      "mcap": 6332279685120,
+      "name": "ABM Investama Tbk."
+    },
+    "SMMT": {
+      "price": 1835.0,
+      "mcap": 6284875137024,
+      "name": "Golden Eagle Energy Tbk."
+    },
+    "MTDL": {
+      "price": 510.0,
+      "mcap": 6261210873856,
+      "name": "Metrodata Electronics Tbk"
+    },
+    "SGER": {
+      "price": 396.0,
+      "mcap": 6172415885312,
+      "name": "Sumber Global Energy Tbk."
+    },
+    "BOGA": {
+      "price": 1575.0,
+      "mcap": 5990553485312,
+      "name": "Apollo Global Interactive Tbk."
+    },
+    "SAME": {
+      "price": 334.0,
+      "mcap": 5732987043840,
+      "name": "Sarana Meditama Metropolitan Tb"
+    },
+    "ERAA": {
+      "price": 364.0,
+      "mcap": 5693795991552,
+      "name": "Erajaya Swasembada Tbk."
+    },
+    "DMND": {
+      "price": 600.0,
+      "mcap": 5681015422976,
+      "name": "Diamond Food Indonesia Tbk."
+    },
+    "ACES": {
+      "price": 330.0,
+      "mcap": 5649728536576,
+      "name": "Aspirasi Hidup Indonesia Tbk."
+    },
+    "WBSA": {
+      "price": 640.0,
+      "mcap": 5552000204800,
+      "name": "BSA Logistics Indonesia Tbk."
+    },
+    "FORE": {
+      "price": 625.0,
+      "mcap": 5573974163456,
+      "name": "Fore Kopi Indonesia Tbk."
+    },
+    "SGRO": {
+      "price": 3050.0,
+      "mcap": 5546797170688,
+      "name": "Prime Agri Resources Tbk."
+    },
+    "OMED": {
+      "price": 197.0,
+      "mcap": 5320599928832,
+      "name": "Jayamas Medica Industri Tbk."
+    },
+    "NICL": {
+      "price": 500.0,
+      "mcap": 5317822251008,
+      "name": "PAM Mineral Tbk."
+    },
+    "YULE": {
+      "price": 3200.0,
+      "mcap": 5079317872640,
+      "name": "Yulie Sekuritas Indonesia Tbk."
+    },
+    "BULL": {
+      "price": 326.0,
+      "mcap": 5051186675712,
+      "name": "Buana Lintas Lautan Tbk."
+    },
+    "BSWD": {
+      "price": 1360.0,
+      "mcap": 5016858918912,
+      "name": "Bank Of India Indonesia Tbk."
+    },
+    "MAYA": {
+      "price": 189.0,
+      "mcap": 4945725095936,
+      "name": "Bank Mayapada Internasional Tbk"
+    },
+    "NATO": {
+      "price": 595.0,
+      "mcap": 4760661393408,
+      "name": "Olympus Strategic Indonesia Tbk"
+    },
+    "MASB": {
+      "price": 3390.0,
+      "mcap": 4752816472064,
+      "name": "Bank Multiarta Sentosa Tbk."
+    },
+    "ANJT": {
+      "price": 1405.0,
+      "mcap": 4712615641088,
+      "name": "Austindo Nusantara Jaya Tbk."
+    },
+    "UNIC": {
+      "price": 12275.0,
+      "mcap": 4705392525312,
+      "name": "Unggul Indah Cahaya Tbk"
+    },
+    "PALM": {
+      "price": 298.0,
+      "mcap": 4688396681216,
+      "name": "Provident Investasi Bersama Tbk"
+    },
+    "BALI": {
+      "price": 1190.0,
+      "mcap": 4682164994048,
+      "name": "Bali Towerindo Sentra Tbk."
+    },
+    "SMRA": {
+      "price": 280.0,
+      "mcap": 4622399307776,
+      "name": "Summarecon Agung Tbk"
+    },
+    "MBSS": {
+      "price": 2620.0,
+      "mcap": 4585070002176,
+      "name": "Mitrabahtera Segara Sejati Tbk."
+    },
+    "SHIP": {
+      "price": 1645.0,
+      "mcap": 4474054639616,
+      "name": "Sillo Maritime Perdana Tbk."
+    },
+    "EURO": {
+      "price": 1755.0,
+      "mcap": 4473190088704,
+      "name": "Estee Gold Feet Tbk."
+    },
+    "INET": {
+      "price": 199.0,
+      "mcap": 4452448206848,
+      "name": "Sinergi Inti Andalan Prima Tbk."
+    },
+    "TGKA": {
+      "price": 4830.0,
+      "mcap": 4436320059392,
+      "name": "Tigaraksa Satria Tbk"
+    },
+    "SMDR": {
+      "price": 268.0,
+      "mcap": 4388660707328,
+      "name": "Samudera Indonesia  Tbk"
+    },
+    "CTBN": {
+      "price": 5475.0,
+      "mcap": 4382033969152,
+      "name": "Citra Tubindo Tbk"
+    },
+    "SINI": {
+      "price": 9075.0,
+      "mcap": 4365075087360,
+      "name": "Singaraja Putra Tbk."
+    },
+    "TUGU": {
+      "price": 1200.0,
+      "mcap": 4266690609152,
+      "name": "Asuransi Tugu Pratama Indonesia"
+    },
+    "VICI": {
+      "price": 635.0,
+      "mcap": 4259579953152,
+      "name": "Victoria Care Indonesia Tbk."
+    },
+    "MPMX": {
+      "price": 970.0,
+      "mcap": 4254558322688,
+      "name": "Mitra Pinasthika Mustika Tbk."
+    },
+    "LPKR": {
+      "price": 60.0,
+      "mcap": 4252638904320,
+      "name": "Lippo Karawaci Tbk"
+    },
+    "BPII": {
+      "price": 422.0,
+      "mcap": 4171112382464,
+      "name": "Batavia Prosperindo Internasion"
+    },
+    "DRMA": {
+      "price": 885.0,
+      "mcap": 4164705583104,
+      "name": "Dharma Polimetal Tbk."
+    },
+    "SURE": {
+      "price": 2770.0,
+      "mcap": 4148287766528,
+      "name": "Super Energy Tbk."
+    },
+    "LINK": {
+      "price": 1500.0,
+      "mcap": 4130930688000,
+      "name": "Link Net Tbk."
+    },
+    "ELSA": {
+      "price": 560.0,
+      "mcap": 4087159980032,
+      "name": "Elnusa Tbk"
+    },
+    "BANK": {
+      "price": 274.0,
+      "mcap": 4053330034688,
+      "name": "Bank Aladin Syariah Tbk."
+    },
+    "JTPE": {
+      "price": 595.0,
+      "mcap": 4042626433024,
+      "name": "Jasuindo Tiga Perkasa Tbk"
+    },
+    "TRIM": {
+      "price": 560.0,
+      "mcap": 3981208190976,
+      "name": "Trimegah Sekuritas Indonesia Tb"
+    },
+    "KRAS": {
+      "price": 204.0,
+      "mcap": 3946664951808,
+      "name": "Krakatau Steel (Persero) Tbk."
+    },
+    "GJTL": {
+      "price": 1125.0,
+      "mcap": 3920015917056,
+      "name": "Gajah Tunggal Tbk"
+    },
+    "MKAP": {
+      "price": 1195.0,
+      "mcap": 3883749867520,
+      "name": "Multikarya Asia Pasifik Raya Tb"
+    },
+    "PKPK": {
+      "price": 3230.0,
+      "mcap": 3876000104448,
+      "name": "Paragon Karya Perkasa Tbk."
+    },
+    "BIRD": {
+      "price": 1545.0,
+      "mcap": 3865744506880,
+      "name": "Blue Bird Tbk."
+    },
+    "CASS": {
+      "price": 1840.0,
+      "mcap": 3839988072448,
+      "name": "Cahaya Aero Services Tbk."
+    },
+    "MSTI": {
+      "price": 1220.0,
+      "mcap": 3830087942144,
+      "name": "Mastersystem Infotama Tbk."
+    },
+    "MTLA": {
+      "price": 500.0,
+      "mcap": 3827563233280,
+      "name": "Metropolitan Land Tbk."
+    },
+    "HATM": {
+      "price": 436.0,
+      "mcap": 3784479866880,
+      "name": "Habco Trans Maritima Tbk."
+    },
+    "MARK": {
+      "price": 990.0,
+      "mcap": 3762000232448,
+      "name": "Mark Dynamics Indonesia Tbk."
+    },
+    "PSGO": {
+      "price": 196.0,
+      "mcap": 3694600126464,
+      "name": "Palma Serasih Tbk."
+    },
+    "AMAR": {
+      "price": 204.0,
+      "mcap": 3674789380096,
+      "name": "Bank Amar Indonesia Tbk."
+    },
+    "RDTX": {
+      "price": 13650.0,
+      "mcap": 3669119991808,
+      "name": "Roda Vivatex Tbk"
+    },
+    "TBLA": {
+      "price": 615.0,
+      "mcap": 3692553043968,
+      "name": "Tunas Baru Lampung Tbk"
+    },
+    "HEXA": {
+      "price": 4280.0,
+      "mcap": 3595200102400,
+      "name": "Hexindo Adiperkasa Tbk"
+    },
+    "TOTL": {
+      "price": 1040.0,
+      "mcap": 3546399899648,
+      "name": "Total Bangun Persada Tbk"
+    },
+    "PBID": {
+      "price": 472.0,
+      "mcap": 3540000178176,
+      "name": "Panca Budi Idaman Tbk."
+    },
+    "GGRP": {
+      "price": 288.0,
+      "mcap": 3488076529664,
+      "name": "Gunung Raja Paksi Tbk."
+    },
+    "ROTI": {
+      "price": 610.0,
+      "mcap": 3429588008960,
+      "name": "Nippon Indosari Corpindo Tbk."
+    },
+    "AGRO": {
+      "price": 141.0,
+      "mcap": 3478407872512,
+      "name": "Bank Raya Indonesia Tbk."
+    },
+    "TFCO": {
+      "price": 680.0,
+      "mcap": 3279691972608,
+      "name": "Tifico Fiber Indonesia Tbk."
+    },
+    "WIIM": {
+      "price": 1565.0,
+      "mcap": 3266004385792,
+      "name": "Wismilak Inti Makmur Tbk."
+    },
+    "GOLF": {
+      "price": 167.0,
+      "mcap": 3254289170432,
+      "name": "Intra Golflink Resorts Tbk."
+    },
+    "BESS": {
+      "price": 940.0,
+      "mcap": 3234028060672,
+      "name": "Batulicin Nusantara Maritim Tbk"
+    },
+    "IMAS": {
+      "price": 805.0,
+      "mcap": 3215404302336,
+      "name": "Indomobil Sukses Internasional "
+    },
+    "NOBU": {
+      "price": 428.0,
+      "mcap": 3200774045696,
+      "name": "Bank Nationalnobu Tbk."
+    },
+    "ARNA": {
+      "price": 448.0,
+      "mcap": 3149429735424,
+      "name": "Arwana Citramulia Tbk"
+    },
+    "SDRA": {
+      "price": 212.0,
+      "mcap": 3114744414208,
+      "name": "Bank Woori Saudara Indonesia 19"
+    },
+    "VISI": {
+      "price": 1015.0,
+      "mcap": 3121124999168,
+      "name": "Satu Visi Putra Tbk."
+    },
+    "TOBA": {
+      "price": 384.0,
+      "mcap": 3167754387456,
+      "name": "TBS Energi Utama Tbk."
+    },
+    "CBRE": {
+      "price": 690.0,
+      "mcap": 3131266564096,
+      "name": "Cakra Buana Resources Energi Tb"
+    },
+    "JSPT": {
+      "price": 1345.0,
+      "mcap": 3118699642880,
+      "name": "Jakarta Setiabudi Internasional"
+    },
+    "DAAZ": {
+      "price": 1550.0,
+      "mcap": 3095349952512,
+      "name": "Daaz Bara Lestari Tbk."
+    },
+    "OMRE": {
+      "price": 1050.0,
+      "mcap": 3092471349248,
+      "name": "Indonesia Prima Property Tbk"
+    },
+    "BUKK": {
+      "price": 1160.0,
+      "mcap": 3062924312576,
+      "name": "Bukaka Teknik Utama Tbk."
+    },
+    "KEJU": {
+      "price": 540.0,
+      "mcap": 3034376568832,
+      "name": "Mulia Boga Raya Tbk."
+    },
+    "KEEN": {
+      "price": 825.0,
+      "mcap": 3024707649536,
+      "name": "Kencana Energi Lestari Tbk."
+    },
+    "ARGO": {
+      "price": 950.0,
+      "mcap": 3015622000640,
+      "name": "Argo Pantes Tbk"
+    },
+    "NIRO": {
+      "price": 135.0,
+      "mcap": 2996847771648,
+      "name": "City Retail Developments Tbk."
+    },
+    "SAMF": {
+      "price": 282.0,
+      "mcap": 2890500145152,
+      "name": "Saraswanti Anugerah Makmur Tbk."
+    },
+    "PNIN": {
+      "price": 710.0,
+      "mcap": 2888509947904,
+      "name": "Paninvest Tbk"
+    },
+    "AGRS": {
+      "price": 60.0,
+      "mcap": 2871863017472,
+      "name": "Bank IBK Indonesia Tbk."
+    },
+    "FISH": {
+      "price": 590.0,
+      "mcap": 2832000090112,
+      "name": "FKS Multi Agro Tbk"
+    },
+    "IFSH": {
+      "price": 1460.0,
+      "mcap": 2807795286016,
+      "name": "Ifishdeco Tbk."
+    },
+    "BBYB": {
+      "price": 208.0,
+      "mcap": 2776900304896,
+      "name": "Bank Neo Commerce Tbk."
+    },
+    "MDLA": {
+      "price": 200.0,
+      "mcap": 2802564988928,
+      "name": "Medela Potentia Tbk."
+    },
+    "SMDM": {
+      "price": 575.0,
+      "mcap": 2743979212800,
+      "name": "Suryamas Dutamakmur Tbk"
+    },
+    "DATA": {
+      "price": 1980.0,
+      "mcap": 2722500182016,
+      "name": "Remala Abadi Tbk."
+    },
+    "MMIX": {
+      "price": 565.0,
+      "mcap": 2712240390144,
+      "name": "Multi Medika Internasional Tbk."
+    },
+    "MDIA": {
+      "price": 69.0,
+      "mcap": 2705872125952,
+      "name": "Intermedia Capital Tbk."
+    },
+    "PNGO": {
+      "price": 3440.0,
+      "mcap": 2687500025856,
+      "name": "Pinago Utama Tbk."
+    },
+    "SFAN": {
+      "price": 1970.0,
+      "mcap": 2679070261248,
+      "name": "Surya Fajar Capital Tbk."
+    },
+    "MINA": {
+      "price": 270.0,
+      "mcap": 2657812480000,
+      "name": "Sanurhasta Mitra Tbk."
+    },
+    "ISSP": {
+      "price": 376.0,
+      "mcap": 2651355873280,
+      "name": "Steel Pipe Industry of Indonesi"
+    },
+    "MNCN": {
+      "price": 200.0,
+      "mcap": 2645432205312,
+      "name": "Media Nusantara Citra Tbk"
+    },
+    "SKRN": {
+      "price": 368.0,
+      "mcap": 2619423850496,
+      "name": "Superkrane Mitra Utama Tbk."
+    },
+    "BGTG": {
+      "price": 109.0,
+      "mcap": 2612838531072,
+      "name": "Bank Ganesha Tbk."
+    },
+    "INPC": {
+      "price": 129.0,
+      "mcap": 2608820125696,
+      "name": "Bank Artha Graha Internasional "
+    },
+    "UANG": {
+      "price": 2130.0,
+      "mcap": 2577299931136,
+      "name": "Pakuan Tbk."
+    },
+    "LPCK": {
+      "price": 500.0,
+      "mcap": 2567342915584,
+      "name": "Lippo Cikarang Tbk"
+    },
+    "MCOR": {
+      "price": 67.0,
+      "mcap": 2540622053376,
+      "name": "Bank China Construction Bank In"
+    },
+    "IRSX": {
+      "price": 294.0,
+      "mcap": 2510500397056,
+      "name": "Folago Global Nusantara Tbk."
+    },
+    "BLTZ": {
+      "price": 2870.0,
+      "mcap": 2508199559168,
+      "name": "Graha Layar Prima Tbk."
+    },
+    "PBSA": {
+      "price": 840.0,
+      "mcap": 2507304599552,
+      "name": "Paramita Bangun Sarana Tbk."
+    },
+    "CBUT": {
+      "price": 800.0,
+      "mcap": 2499999956992,
+      "name": "Citra Borneo Utama Tbk."
+    },
+    "SMIL": {
+      "price": 286.0,
+      "mcap": 2490965164032,
+      "name": "Sarana Mitra Luas Tbk."
+    },
+    "KAEF": {
+      "price": 446.0,
+      "mcap": 2482698977280,
+      "name": "Kimia Farma Tbk."
+    },
+    "KIJA": {
+      "price": 118.0,
+      "mcap": 2454026190848,
+      "name": "Kawasan Industri Jababeka Tbk"
+    },
+    "PORT": {
+      "price": 870.0,
+      "mcap": 2448129523712,
+      "name": "Nusantara Pelabuhan Handal Tbk."
+    },
+    "BNBA": {
+      "price": 720.0,
+      "mcap": 2439360020480,
+      "name": "Bank Bumi Arta Tbk"
+    },
+    "TOTO": {
+      "price": 236.0,
+      "mcap": 2435519873024,
+      "name": "Surya Toto Indonesia Tbk"
+    },
+    "NEST": {
+      "price": 590.0,
+      "mcap": 2426374979584,
+      "name": "Esta Indonesia Tbk."
+    },
+    "APLN": {
+      "price": 105.0,
+      "mcap": 2383429500928,
+      "name": "Agung Podomoro Land Tbk."
+    },
+    "DAYA": {
+      "price": 980.0,
+      "mcap": 2372136075264,
+      "name": "Duta Intidaya Tbk."
+    },
+    "WINS": {
+      "price": 530.0,
+      "mcap": 2368986152960,
+      "name": "Wintermar Offshore Marine Tbk."
+    },
+    "ROCK": {
+      "price": 1650.0,
+      "mcap": 2368055541760,
+      "name": "Rockfields Properti Indonesia T"
+    },
+    "UDNG": {
+      "price": 1350.0,
+      "mcap": 2362554187776,
+      "name": "Agro Bahari Nusantara Tbk."
+    },
+    "MGRO": {
+      "price": 675.0,
+      "mcap": 2354653429760,
+      "name": "Mahkota Group Tbk."
+    },
+    "MSJA": {
+      "price": 410.0,
+      "mcap": 2350211923968,
+      "name": "Multi Spunindo Jaya Tbk."
+    },
+    "PYFA": {
+      "price": 206.0,
+      "mcap": 2314770317312,
+      "name": "Pyridam Farma Tbk"
+    },
+    "CENT": {
+      "price": 74.0,
+      "mcap": 2307576299520,
+      "name": "Centratama Telekomunikasi Indon"
+    },
+    "RALS": {
+      "price": 376.0,
+      "mcap": 2306676359168,
+      "name": "Ramayana Lestari Sentosa Tbk"
+    },
+    "BWPT": {
+      "price": 74.0,
+      "mcap": 2303055364096,
+      "name": "Eagle High Plantations Tbk."
+    },
+    "MYOH": {
+      "price": 1025.0,
+      "mcap": 2261470150656,
+      "name": "Samindo Resources Tbk."
+    },
+    "PRDA": {
+      "price": 2530.0,
+      "mcap": 2251131977728,
+      "name": "Prodia Widyahusada Tbk."
+    },
+    "SOCI": {
+      "price": 316.0,
+      "mcap": 2230643851264,
+      "name": "Soechi Lines Tbk."
+    },
+    "MAHA": {
+      "price": 136.0,
+      "mcap": 2229715861504,
+      "name": "Mandiri Herindo Adiperkasa Tbk."
+    },
+    "ASSA": {
+      "price": 600.0,
+      "mcap": 2214682427392,
+      "name": "Adi Sarana Armada Tbk."
+    },
+    "BCIC": {
+      "price": 120.0,
+      "mcap": 2173190537216,
+      "name": "Bank JTrust Indonesia Tbk."
+    },
+    "ASGR": {
+      "price": 1595.0,
+      "mcap": 2151304921088,
+      "name": "Astra Graphia Tbk"
+    },
+    "HUMI": {
+      "price": 119.0,
+      "mcap": 2149457461248,
+      "name": "Humpuss Maritim Internasional T"
+    },
+    "MAPB": {
+      "price": 890.0,
+      "mcap": 2125251477504,
+      "name": "MAP Boga Adiperkasa Tbk."
+    },
+    "ASRI": {
+      "price": 108.0,
+      "mcap": 2122136420352,
+      "name": "Alam Sutera Realty Tbk."
+    },
+    "IPCC": {
+      "price": 1140.0,
+      "mcap": 2072958599168,
+      "name": "Indonesia Kendaraan Terminal Tb"
+    },
+    "BRAM": {
+      "price": 4580.0,
+      "mcap": 2061261078528,
+      "name": "Indo Kordsa Tbk"
+    },
+    "GTSI": {
+      "price": 130.0,
+      "mcap": 2056488615936,
+      "name": "GTS Internasional Tbk."
+    },
+    "ABDA": {
+      "price": 3310.0,
+      "mcap": 2054870007808,
+      "name": "Asuransi Bina Dana Arta Tbk."
+    },
+    "VICO": {
+      "price": 134.0,
+      "mcap": 2039088021504,
+      "name": "Victoria Investama Tbk."
+    },
+    "DWGL": {
+      "price": 220.0,
+      "mcap": 2035620642816,
+      "name": "Dwi Guna Laksana Tbk."
+    },
+    "BACA": {
+      "price": 101.0,
+      "mcap": 2015255592960,
+      "name": "Bank Capital Indonesia Tbk."
+    },
+    "IFII": {
+      "price": 210.0,
+      "mcap": 1976519884800,
+      "name": "Indonesia Fibreboard Industry T"
+    },
+    "IATA": {
+      "price": 63.0,
+      "mcap": 1970377195520,
+      "name": "MNC Energy Investments Tbk."
+    },
+    "LPGI": {
+      "price": 655.0,
+      "mcap": 1964999966720,
+      "name": "Lippo General Insurance Tbk"
+    },
+    "MMLP": {
+      "price": 284.0,
+      "mcap": 1956514234368,
+      "name": "Mega Manunggal Property Tbk."
+    },
+    "AMAG": {
+      "price": 394.0,
+      "mcap": 1948624093184,
+      "name": "Asuransi Multi Artha Guna Tbk"
+    },
+    "PSKT": {
+      "price": 188.0,
+      "mcap": 1946031620096,
+      "name": "Red Planet Indonesia Tbk."
+    },
+    "BISI": {
+      "price": 645.0,
+      "mcap": 1934999945216,
+      "name": "BISI International Tbk"
+    },
+    "DEPO": {
+      "price": 282.0,
+      "mcap": 1914779992064,
+      "name": "Caturkarda Depo Bangunan Tbk."
+    },
+    "DNAR": {
+      "price": 112.0,
+      "mcap": 1891947773952,
+      "name": "Bank Oke Indonesia Tbk."
+    },
+    "MTMH": {
+      "price": 910.0,
+      "mcap": 1882359595008,
+      "name": "Murni Sadar Tbk."
+    },
+    "KMTR": {
+      "price": 228.0,
+      "mcap": 1873103421440,
+      "name": "Kirana Megatara Tbk."
+    },
+    "BOLT": {
+      "price": 795.0,
+      "mcap": 1863281147904,
+      "name": "Garuda Metalindo Tbk."
+    },
+    "BMTR": {
+      "price": 113.0,
+      "mcap": 1847833919488,
+      "name": "Global Mediacom Tbk"
+    },
+    "BEEF": {
+      "price": 224.0,
+      "mcap": 1818935820288,
+      "name": "Estika Tata Tiara Tbk."
+    },
+    "JAWA": {
+      "price": 113.0,
+      "mcap": 1834323542016,
+      "name": "Jaya Agra Wattie Tbk."
+    },
+    "ALDO": {
+      "price": 680.0,
+      "mcap": 1832882929664,
+      "name": "Alkindo Naratama Tbk."
+    },
+    "SCCO": {
+      "price": 2200.0,
+      "mcap": 1809133862912,
+      "name": "Supreme Cable Manufacturing & C"
+    },
+    "FPNI": {
+      "price": 316.0,
+      "mcap": 1758986764288,
+      "name": "Lotte Chemical Titan Tbk."
+    },
+    "DGWG": {
+      "price": 298.0,
+      "mcap": 1752941199360,
+      "name": "Delta Giri Wacana Tbk."
+    },
+    "LPPF": {
+      "price": 1480.0,
+      "mcap": 1731927867392,
+      "name": "MDS Retailing Tbk."
+    },
+    "DVLA": {
+      "price": 1505.0,
+      "mcap": 1685599944704,
+      "name": "Darya-Varia Laboratoria Tbk"
+    },
+    "INDS": {
+      "price": 252.0,
+      "mcap": 1653749186560,
+      "name": "Indospring Tbk"
+    },
+    "MERK": {
+      "price": 3690.0,
+      "mcap": 1653120040960,
+      "name": "Merck Tbk"
+    },
+    "FMII": {
+      "price": 258.0,
+      "mcap": 1651199967232,
+      "name": "Fortune Mate Indonesia Tbk"
+    },
+    "IPCM": {
+      "price": 308.0,
+      "mcap": 1627721826304,
+      "name": "Jasa Armada Indonesia Tbk."
+    },
+    "OASA": {
+      "price": 256.0,
+      "mcap": 1624888311808,
+      "name": "Maharaksa Biru Energi Tbk."
+    },
+    "CSAP": {
+      "price": 280.0,
+      "mcap": 1591288922112,
+      "name": "Catur Sentosa Adiprana Tbk."
+    },
+    "MLIA": {
+      "price": 240.0,
+      "mcap": 1587600031744,
+      "name": "Mulia Industrindo Tbk"
+    },
+    "TRIN": {
+      "price": 352.0,
+      "mcap": 1580976701440,
+      "name": "Perintis Triniti Properti Tbk."
+    },
+    "KINO": {
+      "price": 1140.0,
+      "mcap": 1571853565952,
+      "name": "Kino Indonesia Tbk."
+    },
+    "MBAP": {
+      "price": 1280.0,
+      "mcap": 1570908143616,
+      "name": "Mitrabara Adiperdana Tbk."
+    },
+    "TPMA": {
+      "price": 444.0,
+      "mcap": 1552437215232,
+      "name": "Trans Power Marine Tbk."
+    },
+    "NICE": {
+      "price": 254.0,
+      "mcap": 1544833073152,
+      "name": "Adhi Kartiko Pratama Tbk."
+    },
+    "SPTO": {
+      "price": 570.0,
+      "mcap": 1538999975936,
+      "name": "Surya Pertiwi Tbk."
+    },
+    "CSRA": {
+      "price": 750.0,
+      "mcap": 1537499987968,
+      "name": "Cisadane Sawit Raya Tbk."
+    },
+    "UCID": {
+      "price": 366.0,
+      "mcap": 1521305518080,
+      "name": "Uni-Charm Indonesia Tbk."
+    },
+    "IMJS": {
+      "price": 139.0,
+      "mcap": 1508047454208,
+      "name": "Indomobil Multi Jasa Tbk."
+    },
+    "SMBR": {
+      "price": 150.0,
+      "mcap": 1489880219648,
+      "name": "Semen Baturaja (Persero) Tbk."
+    },
+    "FUTR": {
+      "price": 224.0,
+      "mcap": 1486363557888,
+      "name": "Futura Energi Global Tbk."
+    },
+    "BMHS": {
+      "price": 170.0,
+      "mcap": 1462580805632,
+      "name": "Bundamedik Tbk."
+    },
+    "SONA": {
+      "price": 2220.0,
+      "mcap": 1470527963136,
+      "name": "Sona Topas Tourism Industry Tbk"
+    },
+    "KETR": {
+      "price": 515.0,
+      "mcap": 1463250321408,
+      "name": "Ketrosden Triasmitra Tbk."
+    },
+    "SUNI": {
+      "price": 605.0,
+      "mcap": 1455872016384,
+      "name": "Sunindo Pratama Tbk."
+    },
+    "BVIC": {
+      "price": 80.0,
+      "mcap": 1473553498112,
+      "name": "Bank Victoria International Tbk"
+    },
+    "ERAL": {
+      "price": 280.0,
+      "mcap": 1452500058112,
+      "name": "Sinar Eka Selaras Tbk."
+    },
+    "MAIN": {
+      "price": 650.0,
+      "mcap": 1449823436800,
+      "name": "Malindo Feedmill Tbk"
+    },
+    "FORU": {
+      "price": 3120.0,
+      "mcap": 1451498930176,
+      "name": "Fortune Indonesia Tbk"
+    },
+    "PMJS": {
+      "price": 104.0,
+      "mcap": 1430582329344,
+      "name": "Putra Mandiri Jembar Tbk."
+    },
+    "MKTR": {
+      "price": 117.0,
+      "mcap": 1411070164992,
+      "name": "Menthobi Karyatama Raya Tbk."
+    },
+    "DOID": {
+      "price": 191.0,
+      "mcap": 1405219373056,
+      "name": "BUMA Internasional Grup Tbk."
+    },
+    "DLTA": {
+      "price": 1755.0,
+      "mcap": 1405156720640,
+      "name": "Delta Djakarta Tbk"
+    },
+    "PSSI": {
+      "price": 274.0,
+      "mcap": 1403205844992,
+      "name": "IMC Pelita Logistik Tbk."
+    },
+    "INDR": {
+      "price": 2130.0,
+      "mcap": 1393769054208,
+      "name": "Indo-Rama Synthetics Tbk."
+    },
+    "AYAM": {
+      "price": 348.0,
+      "mcap": 1391999975424,
+      "name": "Janu Putra Sejahtera Tbk."
+    },
+    "ITMA": {
+      "price": 1365.0,
+      "mcap": 1363707559936,
+      "name": "Sumber Energi Andalan Tbk."
+    },
+    "RAAM": {
+      "price": 200.0,
+      "mcap": 1362723995648,
+      "name": "Tripar Multivision Plus Tbk."
+    },
+    "ACST": {
+      "price": 77.0,
+      "mcap": 1360987291648,
+      "name": "Acset Indonusa Tbk."
+    },
+    "POLI": {
+      "price": 675.0,
+      "mcap": 1357105332224,
+      "name": "Pollux Hotels Group Tbk."
+    },
+    "GMTD": {
+      "price": 1330.0,
+      "mcap": 1350455394304,
+      "name": "Gowa Makassar Tourism Developme"
+    },
+    "TRST": {
+      "price": 476.0,
+      "mcap": 1336608030720,
+      "name": "Trias Sentosa Tbk"
+    },
+    "AMFG": {
+      "price": 3070.0,
+      "mcap": 1332380041216,
+      "name": "Asahimas Flat Glass Tbk"
+    },
+    "ASLI": {
+      "price": 212.0,
+      "mcap": 1325000032256,
+      "name": "Asri Karya Lestari Tbk."
+    },
+    "HERO": {
+      "price": 310.0,
+      "mcap": 1296926507008,
+      "name": "DFI Retail Nusantara Tbk."
+    },
+    "TRGU": {
+      "price": 164.0,
+      "mcap": 1303047700480,
+      "name": "Cerestar Indonesia Tbk."
+    },
+    "WOOD": {
+      "price": 208.0,
+      "mcap": 1302902996992,
+      "name": "Integra Indocabinet Tbk."
+    },
+    "SIPD": {
+      "price": 705.0,
+      "mcap": 1296566976512,
+      "name": "Sreeya Sewu Indonesia Tbk."
+    },
+    "STAR": {
+      "price": 270.0,
+      "mcap": 1296000090112,
+      "name": "Calculus Global Ventures Tbk."
+    },
+    "ADHI": {
+      "price": 153.0,
+      "mcap": 1286364200960,
+      "name": "Adhi Karya (Persero) Tbk"
+    },
+    "MLPL": {
+      "price": 82.0,
+      "mcap": 1280295567360,
+      "name": "Multipolar Tbk"
+    },
+    "BSBK": {
+      "price": 51.0,
+      "mcap": 1279686082560,
+      "name": "Wulandari Bangun Laksana Tbk."
+    },
+    "TEBE": {
+      "price": 995.0,
+      "mcap": 1278574985216,
+      "name": "Dana Brata Luhur Tbk."
+    },
+    "PTSN": {
+      "price": 240.0,
+      "mcap": 1275442495488,
+      "name": "Sat Nusapersada Tbk"
+    },
+    "CFIN": {
+      "price": 320.0,
+      "mcap": 1275046526976,
+      "name": "Clipan Finance Indonesia Tbk"
+    },
+    "KBLI": {
+      "price": 316.0,
+      "mcap": 1266286329856,
+      "name": "KMI Wire & Cable Tbk."
+    },
+    "CARS": {
+      "price": 84.0,
+      "mcap": 1259999985664,
+      "name": "Industri dan Perdagangan Bintra"
+    },
+    "KKGI": {
+      "price": 258.0,
+      "mcap": 1257318907904,
+      "name": "Resource Alam Indonesia Tbk"
+    },
+    "CEKA": {
+      "price": 2090.0,
+      "mcap": 1243550056448,
+      "name": "Wilmar Cahaya Indonesia Tbk."
+    },
+    "BLES": {
+      "price": 139.0,
+      "mcap": 1235738689536,
+      "name": "Superior Prima Sukses Tbk."
+    },
+    "RONY": {
+      "price": 980.0,
+      "mcap": 1224999960576,
+      "name": "Aracord Nusantara Group Tbk."
+    },
+    "BLUE": {
+      "price": 2890.0,
+      "mcap": 1208019976192,
+      "name": "Berkah Prima Perkasa Tbk."
+    },
+    "LUCY": {
+      "price": 775.0,
+      "mcap": 1173949775872,
+      "name": "Lima Dua Lima Tiga Tbk."
+    },
+    "FAST": {
+      "price": 262.0,
+      "mcap": 1184345489408,
+      "name": "Fast Food Indonesia Tbk"
+    },
+    "COCO": {
+      "price": 330.0,
+      "mcap": 1174620471296,
+      "name": "Wahana Interfood Nusantara Tbk."
+    },
+    "PSAT": {
+      "price": 790.0,
+      "mcap": 1171058851840,
+      "name": "Pancaran Samudera Transport Tbk"
+    },
+    "ARTA": {
+      "price": 2620.0,
+      "mcap": 1170286313472,
+      "name": "Arthavest Tbk"
+    },
+    "DMMX": {
+      "price": 159.0,
+      "mcap": 1154250178560,
+      "name": "Digital Mediatama Maxima Tbk."
+    },
+    "GSMF": {
+      "price": 81.0,
+      "mcap": 1152662372352,
+      "name": "Equity Development Investment T"
+    },
+    "LTLS": {
+      "price": 780.0,
+      "mcap": 1142457237504,
+      "name": "Lautan Luas Tbk"
+    },
+    "DILD": {
+      "price": 110.0,
+      "mcap": 1140243955712,
+      "name": "Intiland Development Tbk"
+    },
+    "BLOG": {
+      "price": 336.0,
+      "mcap": 1135507668992,
+      "name": "Trimitra Trans Persada Tbk."
+    },
+    "TCID": {
+      "price": 2770.0,
+      "mcap": 1113909362688,
+      "name": "Mandom Indonesia Tbk"
+    },
+    "PTPP": {
+      "price": 180.0,
+      "mcap": 1113361481728,
+      "name": "PP (Persero) Tbk."
+    },
+    "ATIC": {
+      "price": 480.0,
+      "mcap": 1111373381632,
+      "name": "Anabatic Technologies Tbk."
+    },
+    "SKLT": {
+      "price": 177.0,
+      "mcap": 1104132308992,
+      "name": "Sekar Laut Tbk"
+    },
+    "JKON": {
+      "price": 67.0,
+      "mcap": 1092670849024,
+      "name": "Jaya Konstruksi Manggala Pratam"
+    },
+    "PTPW": {
+      "price": 1230.0,
+      "mcap": 1080170643456,
+      "name": "Pratama Widya Tbk."
+    },
+    "NRCA": {
+      "price": 420.0,
+      "mcap": 1048428478464,
+      "name": "Nusa Raya Cipta Tbk."
+    },
+    "RSGK": {
+      "price": 1125.0,
+      "mcap": 1045884370944,
+      "name": "Kedoya Adyaraya Tbk."
+    },
+    "NFCX": {
+      "price": 1575.0,
+      "mcap": 1043299368960,
+      "name": "NFC Indonesia Tbk."
+    },
+    "PANS": {
+      "price": 1465.0,
+      "mcap": 1042243190784,
+      "name": "Panin Sekuritas Tbk"
+    },
+    "AMAN": {
+      "price": 264.0,
+      "mcap": 1022603952128,
+      "name": "Makmur Berkah Amanda Tbk."
+    },
+    "CAMP": {
+      "price": 172.0,
+      "mcap": 1012220035072,
+      "name": "Campina Ice Cream Industry Tbk."
+    },
+    "PADI": {
+      "price": 89.0,
+      "mcap": 1006344929280,
+      "name": "Minna Padi Investama Sekuritas "
+    },
+    "BBRM": {
+      "price": 120.0,
+      "mcap": 1017538871296,
+      "name": "Pelayaran Nasional Bina Buana R"
+    },
+    "PPRE": {
+      "price": 99.0,
+      "mcap": 1012202864640,
+      "name": "PP Presisi Tbk."
+    },
+    "BUAH": {
+      "price": 505.0,
+      "mcap": 1010000003072,
+      "name": "Segar Kumala Indonesia Tbk."
+    },
+    "ARII": {
+      "price": 266.0,
+      "mcap": 997500059648,
+      "name": "Atlas Resources Tbk."
+    },
+    "LIVE": {
+      "price": 210.0,
+      "mcap": 964531060736,
+      "name": "Homeco Victoria Makmur Tbk."
+    },
+    "BSML": {
+      "price": 525.0,
+      "mcap": 971368169472,
+      "name": "Bintang Samudera Mandiri Lines "
+    },
+    "JIHD": {
+      "price": 400.0,
+      "mcap": 931616129024,
+      "name": "Jakarta International  Hotels &"
+    },
+    "BEST": {
+      "price": 96.0,
+      "mcap": 926141841408,
+      "name": "Bekasi Fajar Industrial Estate "
+    },
+    "SKBM": {
+      "price": 535.0,
+      "mcap": 925605167104,
+      "name": "Sekar Bumi Tbk."
+    },
+    "BUDI": {
+      "price": 206.0,
+      "mcap": 925203038208,
+      "name": "Budi Starch & Sweetener Tbk."
+    },
+    "GWSA": {
+      "price": 118.0,
+      "mcap": 920489689088,
+      "name": "Greenwood Sejahtera Tbk."
+    },
+    "KOTA": {
+      "price": 88.0,
+      "mcap": 928051888128,
+      "name": "DMS Propertindo Tbk."
+    },
+    "BELL": {
+      "price": 127.0,
+      "mcap": 915978715136,
+      "name": "Trisula Textile Industries Tbk."
+    },
+    "BOLA": {
+      "price": 151.0,
+      "mcap": 906000007168,
+      "name": "Bali Bintang Sejahtera Tbk."
+    },
+    "MINE": {
+      "price": 220.0,
+      "mcap": 898575761408,
+      "name": "Sinar Terang Mandiri Tbk."
+    },
+    "DOOH": {
+      "price": 116.0,
+      "mcap": 897711407104,
+      "name": "Era Media Sejahtera Tbk."
+    },
+    "RELI": {
+      "price": 494.0,
+      "mcap": 889199984640,
+      "name": "Reliance Sekuritas Indonesia Tb"
+    },
+    "TBMS": {
+      "price": 1200.0,
+      "mcap": 881616027648,
+      "name": "Tembaga Mulia Semanan Tbk"
+    },
+    "CITY": {
+      "price": 162.0,
+      "mcap": 875640651776,
+      "name": "Natura City Developments Tbk."
+    },
+    "SPMA": {
+      "price": 212.0,
+      "mcap": 869267275776,
+      "name": "Suparma Tbk"
+    },
+    "GHON": {
+      "price": 1580.0,
+      "mcap": 869000019968,
+      "name": "Gihon Telekomunikasi Indonesia "
+    },
+    "BBLD": {
+      "price": 525.0,
+      "mcap": 864042942464,
+      "name": "Buana Finance Tbk"
+    },
+    "FOLK": {
+      "price": 212.0,
+      "mcap": 867367780352,
+      "name": "Multi Garam Utama Tbk."
+    },
+    "WOMF": {
+      "price": 240.0,
+      "mcap": 835555557376,
+      "name": "Wahana Ottomitra Multiartha Tbk"
+    },
+    "TIFA": {
+      "price": 234.0,
+      "mcap": 831217860608,
+      "name": "KDB Tifa Finance Tbk."
+    },
+    "SOSS": {
+      "price": 835.0,
+      "mcap": 813728989184,
+      "name": "Shield On Service Tbk."
+    },
+    "KING": {
+      "price": 312.0,
+      "mcap": 812089868288,
+      "name": "Hoffmen Cleanindo Tbk."
+    },
+    "VOKS": {
+      "price": 195.0,
+      "mcap": 810342547456,
+      "name": "Voksel Electric Tbk"
+    },
+    "PDPP": {
+      "price": 262.0,
+      "mcap": 802071445504,
+      "name": "Primadaya Plastisindo Tbk."
+    },
+    "RANC": {
+      "price": 515.0,
+      "mcap": 805711118336,
+      "name": "Supra Boga Lestari Tbk."
+    },
+    "TALF": {
+      "price": 590.0,
+      "mcap": 798526668800,
+      "name": "Tunas Alfin Tbk."
+    },
+    "LFLO": {
+      "price": 610.0,
+      "mcap": 797718282240,
+      "name": "Imago Mulia Persada Tbk."
+    },
+    "SQMI": {
+      "price": 51.0,
+      "mcap": 792417140736,
+      "name": "Wilton Makmur Indonesia Tbk."
+    },
+    "GRIA": {
+      "price": 107.0,
+      "mcap": 789202075648,
+      "name": "Ingria Pratama Capitalindo Tbk."
+    },
+    "KONI": {
+      "price": 2520.0,
+      "mcap": 786239979520,
+      "name": "Perdana Bangun Pusaka Tbk"
+    },
+    "GZCO": {
+      "price": 137.0,
+      "mcap": 791813554176,
+      "name": "Gozco Plantations Tbk"
+    },
+    "ADMG": {
+      "price": 202.0,
+      "mcap": 785614307328,
+      "name": "Polychem Indonesia Tbk"
+    },
+    "HGII": {
+      "price": 119.0,
+      "mcap": 773499977728,
+      "name": "Hero Global Investment Tbk."
+    },
+    "MTWI": {
+      "price": 264.0,
+      "mcap": 772064477184,
+      "name": "Malacca Trust Wuwungan Insuranc"
+    },
+    "STRK": {
+      "price": 71.0,
+      "mcap": 761250381824,
+      "name": "Lovina Beach Brewery Tbk."
+    },
+    "ASLC": {
+      "price": 60.0,
+      "mcap": 764781264896,
+      "name": "Autopedia Sukses Lestari Tbk."
+    },
+    "RSCH": {
+      "price": 288.0,
+      "mcap": 763199946752,
+      "name": "Charlie Hospital Semarang Tbk."
+    },
+    "BAIK": {
+      "price": 665.0,
+      "mcap": 749785907200,
+      "name": "Bersama Mencapai Puncak Tbk."
+    },
+    "CHIP": {
+      "price": 930.0,
+      "mcap": 749579993088,
+      "name": "Pelita Teknologi Global Tbk."
+    },
+    "GDST": {
+      "price": 80.0,
+      "mcap": 739400024064,
+      "name": "Gunawan Dianjaya Steel Tbk."
+    },
+    "PJAA": {
+      "price": 462.0,
+      "mcap": 739200008192,
+      "name": "Pembangunan Jaya Ancol Tbk"
+    },
+    "CMPP": {
+      "price": 69.0,
+      "mcap": 737273577472,
+      "name": "AirAsia Indonesia Tbk."
+    },
+    "AMOR": {
+      "price": 330.0,
+      "mcap": 724265533440,
+      "name": "Ashmore Asset Management Indone"
+    },
+    "INDO": {
+      "price": 161.0,
+      "mcap": 721399447552,
+      "name": "Royalindo Investa Wijaya Tbk."
+    },
+    "KDTN": {
+      "price": 570.0,
+      "mcap": 712513290240,
+      "name": "Puri Sentul Permai Tbk."
+    },
+    "KDSI": {
+      "price": 432.0,
+      "mcap": 699840004096,
+      "name": "Kedawung Setia Industrial Tbk."
+    },
+    "IPOL": {
+      "price": 106.0,
+      "mcap": 682998235136,
+      "name": "Indopoly Swakarsa Industry Tbk."
+    },
+    "URBN": {
+      "price": 214.0,
+      "mcap": 667593998336,
+      "name": "Urban Jakarta Propertindo Tbk."
+    },
+    "VERN": {
+      "price": 138.0,
+      "mcap": 657659461632,
+      "name": "Verona Indah Pictures Tbk."
+    },
+    "KSIX": {
+      "price": 306.0,
+      "mcap": 654176550912,
+      "name": "Kentanix Supra International Tb"
+    },
+    "GULA": {
+      "price": 605.0,
+      "mcap": 647569342464,
+      "name": "Aman Agrindo Tbk."
+    },
+    "SHID": {
+      "price": 575.0,
+      "mcap": 643612540928,
+      "name": "Hotel Sahid Jaya International "
+    },
+    "IKBI": {
+      "price": 525.0,
+      "mcap": 642600009728,
+      "name": "Sumi Indo Kabel Tbk"
+    },
+    "BDKR": {
+      "price": 142.0,
+      "mcap": 640352059392,
+      "name": "Berdikari Pondasi Perkasa Tbk."
+    },
+    "DGIK": {
+      "price": 124.0,
+      "mcap": 637477847040,
+      "name": "Nusa Konstruksi Enjiniring Tbk."
+    },
+    "MOLI": {
+      "price": 234.0,
+      "mcap": 637424566272,
+      "name": "Madusari Murni Indah Tbk."
+    },
+    "BPFI": {
+      "price": 238.0,
+      "mcap": 636410855424,
+      "name": "Woori Finance Indonesia Tbk."
+    },
+    "WIRG": {
+      "price": 53.0,
+      "mcap": 632746999808,
+      "name": "WIR ASIA Tbk."
+    },
+    "NICK": {
+      "price": 960.0,
+      "mcap": 625103994880,
+      "name": "Charnic Capital Tbk."
+    },
+    "AXIO": {
+      "price": 107.0,
+      "mcap": 624893558784,
+      "name": "Tera Data Indonusa Tbk."
+    },
+    "ENAK": {
+      "price": 288.0,
+      "mcap": 621930217472,
+      "name": "Champ Resto Indonesia Tbk."
+    },
+    "WTON": {
+      "price": 70.0,
+      "mcap": 610082684928,
+      "name": "Wijaya Karya Beton Tbk."
+    },
+    "TRIS": {
+      "price": 198.0,
+      "mcap": 612455874560,
+      "name": "Trisula International Tbk."
+    },
+    "SOTS": {
+      "price": 605.0,
+      "mcap": 605002399744,
+      "name": "Satria Mega Kencana Tbk."
+    },
+    "BKDP": {
+      "price": 80.0,
+      "mcap": 601119391744,
+      "name": "Bukit Darmo Property Tbk"
+    },
+    "MITI": {
+      "price": 160.0,
+      "mcap": 600084250624,
+      "name": "Mitra Investindo Tbk"
+    },
+    "TIRT": {
+      "price": 590.0,
+      "mcap": 596947107840,
+      "name": "Tirta Mahakam Resources Tbk"
+    },
+    "HDFA": {
+      "price": 91.0,
+      "mcap": 595362578432,
+      "name": "Radana Bhaskara Finance Tbk."
+    },
+    "IDPR": {
+      "price": 296.0,
+      "mcap": 592888004608,
+      "name": "Indonesia Pondasi Raya Tbk."
+    },
+    "AREA": {
+      "price": 232.0,
+      "mcap": 589187383296,
+      "name": "Dunia Virtual Online Tbk."
+    },
+    "EKAD": {
+      "price": 168.0,
+      "mcap": 586971021312,
+      "name": "Ekadharma International Tbk"
+    },
+    "MSKY": {
+      "price": 58.0,
+      "mcap": 578367455232,
+      "name": "MNC Sky Vision Tbk."
+    },
+    "SMGA": {
+      "price": 66.0,
+      "mcap": 577500020736,
+      "name": "Sumber Mineral Global Abadi Tbk"
+    },
+    "IBOS": {
+      "price": 71.0,
+      "mcap": 572671066112,
+      "name": "Indo Boga Sukses Tbk."
+    },
+    "IRRA": {
+      "price": 370.0,
+      "mcap": 557892435968,
+      "name": "Itama Ranoraya Tbk."
+    },
+    "PGJO": {
+      "price": 700.0,
+      "mcap": 557101350912,
+      "name": "Bahtera Bumi Raya Tbk."
+    },
+    "PANR": {
+      "price": 400.0,
+      "mcap": 555000004608,
+      "name": "Panorama Sentrawisata Tbk"
+    },
+    "BRNA": {
+      "price": 565.0,
+      "mcap": 553197174784,
+      "name": "Berlina Tbk"
+    },
+    "PZZA": {
+      "price": 183.0,
+      "mcap": 550004785152,
+      "name": "Sarimelati Kencana Tbk."
+    },
+    "LABS": {
+      "price": 139.0,
+      "mcap": 549050023936,
+      "name": "UBC Medical Indonesia Tbk."
+    },
+    "PEVE": {
+      "price": 310.0,
+      "mcap": 547343728640,
+      "name": "Penta Valent Tbk."
+    },
+    "LEAD": {
+      "price": 94.0,
+      "mcap": 545163968512,
+      "name": "Logindo Samudramakmur Tbk."
+    },
+    "ATAP": {
+      "price": 426.0,
+      "mcap": 532499988480,
+      "name": "Trimitra Prawara Goldland Tbk."
+    },
+    "TRUS": {
+      "price": 650.0,
+      "mcap": 520000012288,
+      "name": "Trust Finance Indonesia Tbk"
+    },
+    "UNSP": {
+      "price": 206.0,
+      "mcap": 515033432064,
+      "name": "Bakrie Sumatera Plantations Tbk"
+    },
+    "HOKI": {
+      "price": 52.0,
+      "mcap": 503243112448,
+      "name": "Buyung Poetra Sembada Tbk."
+    },
+    "FITT": {
+      "price": 392.0,
+      "mcap": 511274614784,
+      "name": "Hotel Fitra International Tbk."
+    },
+    "CHEK": {
+      "price": 124.0,
+      "mcap": 510053089280,
+      "name": "Diastika Biotekindo Tbk."
+    }
+  }
+}

@@ -1,0 +1,6 @@
+requests>=2.31
+python-dotenv>=1.0
+truststore>=0.9
+yfinance>=0.2.40
+streamlit>=1.30
+openpyxl>=3.1
